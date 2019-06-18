@@ -1,0 +1,27 @@
+{
+  "name": "vue-replace-query-mixin",
+  "version": "1.0.0",
+  "description": "A Vue mixin that updates current URL query but doesn't save it in history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Loskir/vue-replace-query-mixin.git"
+  },
+  "keywords": [
+    "vue",
+    "query",
+    "mixin"
+  ],
+  "author": "Loskir <kl@sinker.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loskir/vue-replace-query-mixin/issues"
+  },
+  "homepage": "https://github.com/Loskir/vue-replace-query-mixin#readme",
+  "dependencies": {
+    "update-query": "^1.0.5"
+  }
+}
